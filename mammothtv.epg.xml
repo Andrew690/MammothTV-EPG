@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20220910">
+<channel id="MammothTV.id"><display-name>Mammoth TV</display-name><icon src="https://i.imgur.com/2goRtZp.png"/></channel>
+<programme start="20220910000000 +0000" stop="20220910120000 +0000" channel="MammothTV.id"><title lang="en">Mammoth TV</title><desc lang="en">Made Your Day</desc></programme>
+<channel id="LiveEvent.id"><display-name>Mammoth TV</display-name><icon src="https://i.imgur.com/2goRtZp.png"/></channel>
+<programme start="20220910000000 +0000" stop="20220910120000 +0000" channel="LiveEvent.id"><title lang="en">Live Event - Mammoth TV</title><desc lang="en">Nikmati berbagai tayangan Olahraga dan yang lainnya hanya di Mammoth TV.</desc></programme>
+<programme start="20220910120000 +0000" stop="20220910000000 +0000" channel="LiveEvent.id"><title lang="en">Live Event - Mammoth TV</title><desc lang="en">Nikmati berbagai tayangan Olahraga dan yang lainnya hanya di Mammoth TV.</desc></programme>
+</tv>
