@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-<channel id="MammothTV"><display-name>Mammoth TV</display-name><icon src="https://i.imgur.com/2goRtZp.png"/></channel>
-<channel id="LiveEvent"><display-name>Live Event</display-name><icon src="https://i.imgur.com/2goRtZp.png"/></channel>
-<programme start="20220911000000 +0000" stop="20220911120000 +0000" channel="MammothTV"><title lang="en">Mammoth TV</title><desc lang="en">Made Your Day</desc></programme>
-<programme start="20220911120000 +0000" stop="20220911000000 +0000" channel="MammothTV"><title lang="en">Mammoth TV</title><desc lang="en">Made Your Day</desc></programme>
-<programme start="20220911000000 +0000" stop="20220911120000 +0000" channel="LiveEvent"><title lang="en">Live Event - Mammoth TV</title><desc lang="en">Nikmati berbagai tayangan Olahraga dan yang lainnya hanya di Mammoth TV.</desc></programme>
-<programme start="20220911120000 +0000" stop="20220911000000 +0000" channel="LiveEvent"><title lang="en">Live Event - Mammoth TV</title><desc lang="en">Nikmati berbagai tayangan Olahraga dan yang lainnya hanya di Mammoth TV.</desc></programme>
+<?xml version="1.0" encoding="utf-8"?>
+<tv date="1/1/2022 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
+<channel id="LiveEvent">
+<display-name>Live Event</display-name>
+</channel>
+
+<programme channel="Live Event - Mammoth TV" start="20220911000000 +0000" stop="20221011235900 +0000">
+<title>Nikmati Berbagai Pertandingan Olahraga dan yang Lainnya hanya di Mammoth TV.</title>
+</programme>
+
 </tv>
